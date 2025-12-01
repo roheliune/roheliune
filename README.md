@@ -16,18 +16,9 @@ Yeni teknolojiler öğrenmeyi, küçük oyunlar ve uygulamalar yapmayı seviyoru
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roheliune&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roheliune&layout=compact&theme=tokyonight)
-
----
-
 ## 🌱 Currently Learning
-- C#
-- Oyun geliştirme (Unity)
-- Python ile küçük projeler
-- Kotlin ile mobil geliştirme
+- Şu sıralar yazılım dili olarak C# ve PHP üzerinde yoğunlaşıyorum.
+- Oyun geliştirme konusunda; Unity programında 2D oyun geliştirmeye çalışıyorum.
 
 ---
 
@@ -38,5 +29,5 @@ Yeni teknolojiler öğrenmeyi, küçük oyunlar ve uygulamalar yapmayı seviyoru
 ---
 
 ## 🧩 Fun Fact
-> "Her gün küçük bir şey öğrenirsen, bir yıl sonra çok büyük bir adım atmış olursun."
+> "Yazılımın dışarıdan gerçekten geniş ve etkileyici bir şey olduğunu düşünürdüm, ta ki içerisine girene kadar.. geniş, etkileyici ve aynı zamanda aşırı eğlenceli bir şeymiş yazılım."
 
