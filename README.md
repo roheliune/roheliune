@@ -1,12 +1,12 @@
-# Merhaba ben Rabia,
-## 💻 Bilgisayar Programcısı / Programming Student 
+# Merhaba ben Rabia, 
+## Bilgisayar Programcısı / Programming Student 
 
 C, C#, C++, Python, HTML, Kotlin ve PHP ile projeler geliştiriyorum.  
 Yeni teknolojiler öğrenmeyi, küçük oyunlar ve uygulamalar yapmayı seviyorum.
 
 ---
 
-## 🚀 Languages & Technologies
+## Hakkında Bilgim Olduğunu Düşündüğüm Yazılım Dilleri ; 
 <div align="left">
   
 <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,kotlin,php" />
