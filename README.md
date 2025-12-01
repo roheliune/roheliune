@@ -9,7 +9,7 @@ Yeni teknolojiler öğrenmeyi, küçük oyunlar ve uygulamalar yapmayı seviyoru
 ## Hakkında Bilgim Olduğunu Düşündüğüm Yazılım Dilleri ; 
 <div align="left">
   
-<img src="https:/https://icons8.com/icons?i=c,cs,cpp,python,html,kotlin,php"/>
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,kotlin,php"/>
 
 
 </div>
