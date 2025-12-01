@@ -1,8 +1,10 @@
 # Merhaba ben Rabia, 
 ## Bilgisayar Programcısı / Programming Student 
 
-C, C#, C++, Python, HTML, Kotlin ve PHP ile projeler geliştiriyorum.  
-Yeni teknolojiler öğrenmeyi, küçük oyunlar ve uygulamalar yapmayı seviyorum.
+Amacım, yazılım dünyasında kendimi sürekli geliştirerek daha kapsamlı projelere imza atmak ve
+içerilerinde yer almak. Şu anda öğrenim gördüğüm bölümde yazılım dili olarak C, C#, C++, Python,
+HTML, Kotlin ve PHP ile çalıştık. Yeni teknolojiler öğrenmeyi, küçük oyunlar ve uygulamalar 
+geliştirme fikrini seviyorum. Umarım bu projeleri ve fikirleri gerçekleştirebilirim.
 
 ---
 
@@ -19,12 +21,6 @@ Yeni teknolojiler öğrenmeyi, küçük oyunlar ve uygulamalar yapmayı seviyoru
 ## 🌱 Currently Learning
 - Şu sıralar yazılım dili olarak C# ve PHP üzerinde yoğunlaşıyorum.
 - Oyun geliştirme konusunda; Unity programında 2D oyun geliştirmeye çalışıyorum.
-
----
-
-## 🔗 Contact & Social
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@mail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 ---
 
