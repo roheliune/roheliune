@@ -9,13 +9,13 @@ Yeni teknolojiler öğrenmeyi, küçük oyunlar ve uygulamalar yapmayı seviyoru
 ## Hakkında Bilgim Olduğunu Düşündüğüm Yazılım Dilleri ; 
 <div align="left">
   
-<img src="https://icons8.com/icon/111021/c" />
-<img src="https://icons8.com/icon/55204/c-sharp-logo" />
-<img src="https://icons8.com/icon/44328/c%2B%2B" />
-<img src="https://icons8.com/icon/12584/python" />
-<img src="https://icons8.com/icon/1043/html" />
-<img src="https://icons8.com/icon/xlklWoCAXeC6/kotlin" />
-<img src="https://icons8.com/icon/3753/php" />
+<img src="https://icons8.com/icon/111021/c" width="50"/>
+<img src="https://icons8.com/icon/55204/c-sharp-logo" width="50"/>
+<img src="https://icons8.com/icon/44328/c%2B%2B" width="50"/>
+<img src="https://icons8.com/icon/12584/python" width="50"/>
+<img src="https://icons8.com/icon/1043/html" width="50"/>
+<img src="https://icons8.com/icon/xlklWoCAXeC6/kotlin" width="50"/>
+<img src="https://icons8.com/icon/3753/php" width="50"/>
 
 </div>
 
