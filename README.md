@@ -1,16 +1,41 @@
-## Hi there 👋
+# Merhaba ben Rabia,
+## 💻 Bilgisayar Programcısı / Programming Student 
 
-<!--
-**roheliune/roheliune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C, C#, C++, Python, HTML, Kotlin ve PHP ile projeler geliştiriyorum.  
+Yeni teknolojiler öğrenmeyi, küçük oyunlar ve uygulamalar yapmayı seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Languages & Technologies
+<div align="left">
+  
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,kotlin,php" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roheliune&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roheliune&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+- C#
+- Oyun geliştirme (Unity)
+- Python ile küçük projeler
+- Kotlin ile mobil geliştirme
+
+---
+
+## 🔗 Contact & Social
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@mail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+---
+
+## 🧩 Fun Fact
+> "Her gün küçük bir şey öğrenirsen, bir yıl sonra çok büyük bir adım atmış olursun."
+
