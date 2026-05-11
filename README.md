@@ -8,10 +8,10 @@ geliştirme fikrini seviyorum. Umarım bu projeleri ve fikirleri gerçekleştire
 
 ---
 
-## Hakkında Bilgim Olduğunu Düşündüğüm Yazılım Dilleri ; 
+## Hakkında Bilgim Olan Yazılım Dilleri ; 
 <div align="left">
   
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,kotlin,php"/>
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,kotlin,js,php"/>
 
 
 </div>
