@@ -11,7 +11,7 @@ geliştirme fikrini seviyorum. Umarım bu projeleri ve fikirleri gerçekleştire
 ## Hakkında Bilgim Olan Yazılım Dilleri ; 
 <div align="left">
   
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,kotlin,js,php"/>
+<img src="https://skillicons.dev/icons?i=c,cs,css,python,html,kotlin,js,php"/>
 
 
 </div>
