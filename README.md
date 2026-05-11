@@ -19,7 +19,8 @@ geliştirme fikrini seviyorum. Umarım bu projeleri ve fikirleri gerçekleştire
 ---
 
 ## 🌱 Currently Learning
-- Şu sıralar yazılım dili olarak C# ve PHP üzerinde yoğunlaşıyorum.
+- Şu sıralar yazılım dili olarak HTML, CSS ve JavaScript üzerine yoğunlaşıyorum.
+- QUESS adlı bir web uygulaması kodluyorum, ingilizce kelime bilgisi test etme uygulaması.
 - Oyun geliştirme konusunda; Unity programında 2D oyun geliştirmeye çalışıyorum.
 
 ---
