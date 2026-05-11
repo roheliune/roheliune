@@ -18,6 +18,10 @@ geliştirme fikrini seviyorum. Umarım bu projeleri ve fikirleri gerçekleştire
 
 ---
 
+<img src="https://skillicons.dev/icons?i=msoffice"/>
+
+---
+
 ## 🌱 Currently Learning
 - Şu sıralar yazılım dili olarak HTML, CSS ve JavaScript üzerine yoğunlaşıyorum.
 - QUESS adlı bir web uygulaması kodluyorum, ingilizce kelime bilgisi test etme uygulaması.
